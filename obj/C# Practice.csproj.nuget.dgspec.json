@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj": {}
+    "e:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj": {}
   },
   "projects": {
-    "E:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj": {
+    "e:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj",
+        "projectUniqueName": "e:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj",
         "projectName": "C# Practice",
-        "projectPath": "E:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj",
+        "projectPath": "e:\\USJR\\4th Year\\Repositories\\C# Practice\\C# Practice.csproj",
         "packagesPath": "C:\\Users\\crisb\\.nuget\\packages\\",
-        "outputPath": "E:\\USJR\\4th Year\\Repositories\\C# Practice\\obj\\",
+        "outputPath": "e:\\USJR\\4th Year\\Repositories\\C# Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crisb\\AppData\\Roaming\\NuGet\\NuGet.Config"
